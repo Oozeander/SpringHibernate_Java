@@ -1,0 +1,3 @@
+05/12/2020 - 20:02:34 [main] INFO - com.oozeander.App => [Person(id=1, firstname=Billel, lastname=KETROUCI, age=24), Person(id=2, firstname=El Bakay, lastname=BOURAJOINI, age=27), Person(id=3, firstname=Meriem, lastname=KECHEROUD, age=25), Person(id=4, firstname=Océane, lastname=AKIYEMI, age=24)]
+05/12/2020 - 20:02:34 [main] INFO - com.oozeander.App => Person(id=1, firstname=Oozeander, lastname=Billel KETROUCI, age=24)
+05/12/2020 - 20:02:34 [main] INFO - com.oozeander.App => [Person(id=1, firstname=Oozeander, lastname=Billel KETROUCI, age=24), Person(id=2, firstname=El Bakay, lastname=BOURAJOINI, age=27), Person(id=3, firstname=Meriem, lastname=KECHEROUD, age=25)]
